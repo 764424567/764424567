@@ -1,27 +1,25 @@
 
 # 联系方式
 
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
-
-- 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
-- Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
-- QQ/微信号：qing_geee（提供一个通过网络可以联系到你的方式）
+- Email：764424567@qq.com
+- 微信号：yao_11521
+- QQ：764424567
+- CSDN：https://blog.csdn.net/q764424567
 
 # 个人信息
 
- - 沉默王二/男/1989 
- - 专科/家里蹲大学
- - 工作年限：10年
- - 技术博客：http://www.itwanger.com 
- - Github：http://github.com/qinggee ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
+ - 恬静的小魔龙/男/1989 
+ - 专科/河南工院
+ - 工作年限：5年
+ - 技术博客：https://itmonon.github.io/
+ - Github：https://github.com/764424567
 
- - 期望职位：Java 高级程序员，系统架构师
- - 期望薪资：税前月薪30k~50k，特别喜欢的公司可例外
- - 期望城市：洛阳
+ - 期望职位：Unity3D开发工程师，软件开发工程师，虚拟现实开发工程师
+ - 期望薪资：税前月薪8k-10K，特别喜欢的公司可例外
+ - 期望城市：郑州
 
 
 # 工作经历
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
 
 ## ABC公司 （ 2010年10月 ~ 2014年2月 ）
 
@@ -53,39 +51,26 @@
 （每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
   
   
-# 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
 
 ## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
 
-  - [STU](https://github.com/qinggee/itwanger.github.io)：项目的简要说明，Star和Fork数多的可以注明
-  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+  - [Unity3D插件收集](https://github.com/764424567/Unity-plugin)：Unity3D插件收集
+  - [Unity3D跑酷小游戏](https://github.com/764424567/Game_Parkour)：Unity3D跑酷小游戏
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
-- [零基础 Java 自学指南(翻译文章)](https://blog.csdn.net/qing_gee/article/details/104774776) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
-
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
-
-  - 2019年公司内部演讲：[还有一周呢，就无心撸码着急回家？](https://blog.csdn.net/qing_gee/article/details/103967005)
-  - 2020年公司内部分享：[这两个IDE插件，可以让你写出质量杠杠的代码](https://blog.csdn.net/qing_gee/article/details/103831517)
+- [使用Unity3D读取Json、XML、Excel文件](https://blog.csdn.net/q764424567/article/details/105976564)
+- [Unity3D获取天气信息以及地方位置](https://blog.csdn.net/q764424567/article/details/105999041)
     
     
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
 以下均为我熟练使用的技能
-
-- Web开发：Java/JavaScript
-- 后端框架：Spring MVC/Spring Boot
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/Maven
-- 单元测试：JUnit/TestNG
+- Unity开发：Unity/C#
+- 前端：HTML/JavaScript
+- 后端：C/C++
+- 数据库相关：MySQL/SQl Server/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git
       
 ---      
 # 致谢
