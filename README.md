@@ -1,7 +1,15 @@
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
-</p>
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=OriginalCoder0&bg_color=50,eae5c9,6cc6cb&title_color=fff&text_color=fff"/>
+
+<p align="center">在校大学生，CSDN博客之星，新晋视频up主 🎉 
+
+<p align="center">就读于某双非高校，精通Linux操作系统🐧，擅长C/C++、Python等，在学Java和前端🎨
+<p align="left"> I am a college student. I love learning, programming and technology.
+
+I am here to record my learning process and some small projects I have developed. I am skilled, but I have always been crazy about it and fascinated by it. I also hope to meet the next excellent person, get to know more about it, discuss and research technologies together.
+
+ Welcome to experience my open source project, any questions or Suggestions are welcome to communicate with me. Accept criticism, on the premise of keeping hairline efforts to promote technology.
+ The most important thing is to be happy.
+Hello 👋 <a title="Hits" target="_blank" href="https://github.com/OriginalCoder0/hits"><img src="https://hits.b3log.org/OriginalCoder0/hits.svg">
 
 # 联系方式
 
